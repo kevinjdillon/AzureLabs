@@ -1,6 +1,6 @@
 # Deploy Lab - (Updating Documentation for Script Modifications)
 ARM Deployment Templates for lab Resource Group, VNET, and Load Balancer Deployments. 
-Linked deployment initiated for unique lab environments based on input parameters.
+Linked deployment initiated for unique lab environments based on input parameters...
 
 This template deploys resources common to all lab instances.
 
